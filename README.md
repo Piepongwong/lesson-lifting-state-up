@@ -21,6 +21,8 @@ To summarize: in basic react we can deal with data in 3 ways:
 * Why do we have to bind updateToDoList?
 * Can a child of a child component communicate with the parent of the first child? In other words, can grandparents communicate with their grandchildren?
 * And great grandparents with their great grandchildren? 
+* Does task needs to be a class based component?
+* Why is there no props in the constructor of ToDo? When should they be there?
   
 ## In class exercise
 
